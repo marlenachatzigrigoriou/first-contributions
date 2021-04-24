@@ -41,6 +41,7 @@
 - [Max Mohammadi] (https://github.com/MaxMohammadi)
 - [Mobaork Hossain] (https://github.com/mobaarok)
 - [Sreeja Nallapati] (https://github.com/nallapatisreeja)
+- [NullQuasar] (https://github.com/NullQuasar)
 - [Sudha Kotni] (https://github.com/sudhakotni-git)
 - [Ehimare Okosun](https://github.com/ehimare369)
 - [Thomas Roe] (https://github.com/roetom22)
